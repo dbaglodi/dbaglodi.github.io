@@ -1,6 +1,6 @@
-# Disha Baglodi's Portfolio
+# Disha Baglodi
 ## About Me
-I am an undergraduate Computer Science student at the Georgia Institute of Technology with a concentration in Intelligence and Theory. My interests lie in Machine Learning and Data Science, and I am seeking internship opportunities in Software Engineering and/or research opportunities in Machine Learning.
+I am an undergraduate Computer Science student at the Georgia Institute of Technology with a concentration in Intelligence and Theory. My interests lie in Software Engineering, Machine Learning, and Data Science.
 
 ## Relevant Courses
 - CS 4641: Machine Learning
@@ -9,6 +9,24 @@ I am an undergraduate Computer Science student at the Georgia Institute of Techn
 - CS 1332: Data Structures and Algorithms
 - CS 2110: Computer Organization and Programming
 - CS 1331: Object-Oriented Programming
+
+## Skills
+### Programming Languages
+- Java
+- Python
+- C
+- JavaScript
+- HTML/CSS
+### Frameworks
+- React
+- TensorFlow
+- Pandas
+- PyTorch
+- MatplotLib
+- scikit-learn
+### Languages
+- French
+- German
 
 ## Projects
 ### 8-bit Music Generation
