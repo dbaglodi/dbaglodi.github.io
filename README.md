@@ -2,6 +2,9 @@
 ## About Me
 I am an undergraduate Computer Science student at the Georgia Institute of Technology with a concentration in Intelligence and Theory. My interests lie in Software Engineering, Machine Learning, and Data Science.
 
+### Study Abroad
+I studied abroad at TU-Berlin in Summer 2023 as a part of Georgia Tech's College of Computing Berlin Study Abroad program. In this program, I had the opportunity to explore various sites in Berlin such as the Bradenberg Gate, the Carnival of Cultures, the Reichstag Buidling, and the Charlottenburg Palace; as well as experience the culture, even taking upon myself to try to learn German. My favorite part was getting to experience the food in Berlin, especially Turkish cuisine such as Doner Kebab and Turkish Pizza. I also took a Startup Lab course while in Berlin, which was a very valuable experience since Berlin is a notable technology hub, and we would often go to events to meet entreprenuers and get a chance to connect with them, hear about their startup ideas, and get advice on our own startup ideas.
+
 ## Relevant Courses
 - CS 4641: Machine Learning
 - CS 2340: Objects and Design
