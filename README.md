@@ -1,12 +1,13 @@
 # Disha Baglodi
 ## About Me
-I am an undergraduate Computer Science student at the Georgia Institute of Technology with a concentration in Intelligence and Theory. My interests lie in Software Engineering, Machine Learning, and Data Science.
+I am an undergraduate Computer Science student at the Georgia Institute of Technology with a concentration in Intelligence and Theory. I have been accepted into the BS/MS program and will be starting my Graduate studies in Fall 2025 in Computer Science, with a concentration in Machine Learning. My interests lie in Software Engineering, Machine Learning, and Data Science.
 
 ### Study Abroad
 I studied abroad at TU-Berlin in Summer 2023 as a part of Georgia Tech's College of Computing Berlin Study Abroad program. In this program, I had the opportunity to explore various sites in Berlin such as the Bradenberg Gate, the Carnival of Cultures, the Reichstag Buidling, and the Charlottenburg Palace; as well as experience the culture, even taking upon myself to try to learn German. My favorite part was getting to experience the food in Berlin, especially Turkish cuisine such as Doner Kebab and Turkish Pizza. I also took a Startup Lab course while in Berlin, which was a very valuable experience since Berlin is a notable technology hub, and we would often go to events to meet entreprenuers and get a chance to connect with them, hear about their startup ideas, and get advice on our own startup ideas.
 
 ## Relevant Courses
 - CS 4641: Machine Learning
+- CS 3600: Artificial Intelligence
 - CS 2340: Objects and Design
 - CS 3510: Design and Analysis of Algorithms
 - CS 1332: Data Structures and Algorithms
@@ -18,7 +19,7 @@ I studied abroad at TU-Berlin in Summer 2023 as a part of Georgia Tech's College
 - Java
 - Python
 - C
-- JavaScript
+- JavaScript/TypeScript
 - HTML/CSS
 ### Frameworks
 - React
@@ -32,6 +33,10 @@ I studied abroad at TU-Berlin in Summer 2023 as a part of Georgia Tech's College
 - German
 
 ## Projects
+### ALT Text Generation
+As a part of Georgia Tech's Sonification Lab and AccessCORPS Vertically Intergrated Project, I am working on building a tool to scrape images/alt text from course material, classifying those images, and creating a model to predict classifications and alt text for the images. The goal of this project is to use AI to be able to to assist in making course material more accessible for students, particularly for those with low vision.
+### Medical Fraud Detection
+As a project for HackGT 11, I collaborated with team members to build a system to predict fraud based on beneficiary data. We created a model in Python to detect outliers in the data, deciding that those datapoints were most likely to be fraudulent, and these outliers were detected using the Isolation Forest algorithm. We exported this model as a pkl file, and we integrated it into our application using Flask. For the existing datapoints, we exported them as  JSON file and used Node.js to integrate them into our application. For the frontend, we used AngularJS to build a form that allows the user to either input the beneficiary ID (which would find whether that ID correspond to fraud in the database), or to fill in multiple fields for an unregistered beneficiary (in which the pkl file would be used to predict fraud).
 ### 8-bit Music Generation
 As a part of my machine learning course, I collaborated with team members to create a music generation model using unsupervised learning. The motivation behind the project was to provide a tool for video game developers to be able to enhance their games with music. We used Jupyter Notebook to create the generator, and we used the TensorFlow library to train our model. We experimented with our model by tuning hyperparameters such as temperature, learning rate, and layers. Our GitHub Repository, including the final report of our project and some of the generated outputs, can be found [here](https://github.com/CasonHarrison/casonharrison.github.io).
 ### Airline Management System
