@@ -2,7 +2,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 I am a Computer Science student at the Georgia Institute of Technology (BS ’25, MS ’26) with a concentration in Machine Learning.  
 My interests include Software Engineering, Artificial Intelligence, Machine Learning, and Data Science.  
 
@@ -11,7 +11,7 @@ I also studied abroad at TU Berlin, participating in the Startup Lab program, an
 
 ---
 
-## 💼 Experience
+## Experience
 
 **NCR Atleos — Data Engineering Intern (May–Aug 2025)**  
 - Built Python-based models to predict contract billing risk with 80–90% accuracy.  
