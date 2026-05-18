@@ -29,7 +29,7 @@ I also studied abroad at TU Berlin, participating in the Startup Lab program, an
 
 ## 🚀 Projects
 
-**[CREPE-YOLO: A YOLO-Based Approach for Automatic Monophonic Music Transcription](https://github.com/dbaglodi/crepe-yolo)** (Course Project, 2025)  
+**[CREPE-YOLO](https://github.com/dbaglodi/crepe-yolo)** (Course Project, 2025)  
 - Co-developed a deep learning model to transcribe raw monophonic audio into discrete note representations (pitch, onset, and offset) by framing music transcription as an object detection problem.  
 - Spearheaded the collection, curation, and preprocessing of specialized Music Information Retrieval (MIR) datasets, successfully securing the 24-hour Filosax saxophone dataset and the ITM-Flute-99 corpus.    
 - Evaluated and benchmarked state-of-the-art baseline models (CREPE Notes and pYIN) using the standard `mir_eval` library to verify model comparative performance.  
