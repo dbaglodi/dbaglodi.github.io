@@ -35,6 +35,10 @@ I also studied abroad at TU Berlin, participating in the Startup Lab program, an
 - Evaluated and benchmarked state-of-the-art baseline models (CREPE Notes and pYIN) using the standard `mir_eval` library to verify model comparative performance.  
 - Conducted critical ablation studies to isolate performance drivers, confirming that a raw audio shape skip connection dramatically improved localization, raising the test F1-score from 0.2444 to 0.6606.
 
+  **Gut Insights Visualization Tool** (Course Project, 2025)  
+- Co-developed an interactive full-stack web application designed to visualize microbiome density variations in the human gut and predict bacterial classification probabilities.  
+- Engineered a robust backend API using **Flask** to handle data ingestion, preprocessing pipelines, and seamless communication with the machine learning inference engine.  
+
 **FinSight AI Chatbot** (NCR Atleos Hackathon, 2025)  
 - Created a chatbot using GPT-4 and Azure AI Search (RAG) to analyze invoice billing and payment patterns.  
 - Placed Top 3 regionally and Top 25 globally in judging.
